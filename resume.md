@@ -59,7 +59,6 @@ Advanced Studies Diploma. Dual-Enrolled with Northern Virginia Community College
 
 ## SKILLS & DETAILS
 
-* **Skills:** Data Science and Analytics, AI, Web. and Front-End Dev., UI/UX, Digital Forensics, Networking[cite: 1]
 * **Programming:** JavaScript, Java, Python, HTML, CSS, PL/SQL[cite: 1]
 * **Software:** HxD, 010, Wireshark, VS Code, Adobe After Effects, Figma; certified in Word, PowerPoint, Excel[cite: 1]
 * **Language(s):** English, Darija (Moroccan Arabic), French, Arabic, Spanish[cite: 1]
