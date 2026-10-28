@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**kodad-m/kodad-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on soccer analytics.
 - 🌱 I’m currently learning Python, about the AI industry, and its policy work.
 - 👯 I’m looking to collaborate on any sort of project to grow my skillset and knowledge.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kodad.m@northeastern.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read!
--->
