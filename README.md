@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, about the AI industry, and its policy work.
 - 👯 I’m looking to collaborate on any sort of project to grow my skillset and knowledge.
 - 🤔 I’m looking for help with finding opportunities in soccer analytics and the intersection of technology and government.
-- 💬 Ask me about soccer, AI, government/politics, Silicon Valley, and anything tech.
+- 💬 Ask me about soccer, AI, government/politics, ethics, and anything tech.
 - 📫 How to reach me: kodad.m@northeastern.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a soccer enthusiast (if you couldn't tell already!)
+- ⚡ Fun fact: I love to read!
 -->
